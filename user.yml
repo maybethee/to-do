@@ -1,0 +1,4 @@
+--- !ruby/object:User
+name: Blorpo
+age: 28
+sex: male
